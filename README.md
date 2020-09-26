@@ -11,3 +11,8 @@ Pearson’s chi-squared statistical hypothesis test is an example of a test for 
 
 # Mutual Information Feature Selection
 Mutual information from the field of information theory is the application of information gain (typically used in the construction of decision trees) to feature selection. Mutual information is calculated between two variables and measures the reduction in uncertainty for one variable given a known value of the other variable.
+
+
+Data source:https://archive.ics.uci.edu/ml/datasets/Breast+Cancer
+
+The dataset classifies breast cancer patient data as either a recurrence or no recurrence of cancer. There are 286 examples and nine input variables. It is a binary classification problem
